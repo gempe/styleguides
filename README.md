@@ -1,5 +1,5 @@
-# Gempe Style Guides
+# Gempe Style Guide
 
-## Mensagens de Commit
+## Commit messages
 
 View the style guide at https://github.com/gempe/styleguides/blob/master/CONTRIBUTING.md
