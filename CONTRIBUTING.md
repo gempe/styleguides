@@ -14,7 +14,7 @@ Emoji | Code | Commit Type
 :bug: | `:bug:` | bug fix
 :fire: | `:fire:` | code/file removed
 :white_check_mark: | `:white_check_mark:` | tests added
-:lock: | `:lock:` | secutity improvement
+:lock: | `:lock:` | security improvement
 :heavy_plus_sign: | `:heavy_plus_sign:` | upgrade dependencies
 :heavy_minus_sign: | `:heavy_minus_sign:` | downgrade dependencies
 :-1: | `:-1:` | deprecated
