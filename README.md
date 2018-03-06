@@ -2,4 +2,4 @@
 
 ## Mensagens de Commit
 
-View the style guide at https://github.com/gempe/styleguides/CONTRIBUTING.md
+View the style guide at https://github.com/gempe/styleguides/blob/master/CONTRIBUTING.md
