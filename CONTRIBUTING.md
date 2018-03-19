@@ -25,3 +25,8 @@ Emoji | Code | Commit Type
 ```bash
 git commit -m ":tada: first commit"
 ``` 
+
+### Bitbucket supported Emojis
+```bash
+https://bitbucket.org/DACOFFEY/wiki/wiki/BITBUCKET/EMOJI/Emoji
+```
