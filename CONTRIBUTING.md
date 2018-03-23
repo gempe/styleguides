@@ -10,6 +10,7 @@ Emoji | Code | Commit Type
 :tada: | `:tada:` | initial commit
 :art: | `:art:` | layout or code improvement
 :rocket: | `:rocket:` | performance improvement
+:factory: | `:factory:` | build production
 :memo: | `:memo:` | documentation
 :bug: | `:bug:` | bug fix
 :fire: | `:fire:` | code/file removed
