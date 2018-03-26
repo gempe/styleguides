@@ -10,6 +10,7 @@ Emoji | Code | Commit Type
 :tada: | `:tada:` | initial commit
 :art: | `:art:` | layout or code improvement
 :rocket: | `:rocket:` | performance improvement
+:factory: | `:factory:` | build production
 :memo: | `:memo:` | documentation
 :bug: | `:bug:` | bug fix
 :fire: | `:fire:` | code/file removed
@@ -25,3 +26,8 @@ Emoji | Code | Commit Type
 ```bash
 git commit -m ":tada: first commit"
 ``` 
+
+### Bitbucket supported Emojis
+```bash
+https://bitbucket.org/DACOFFEY/wiki/wiki/BITBUCKET/EMOJI/Emoji
+```
